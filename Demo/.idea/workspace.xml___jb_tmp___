@@ -13,47 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/YelpCamp/v6/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-              <folding>
-                <element signature="e#432#651#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YelpCamp/v6/views/campgrounds/index.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-110">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="landing.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YelpCamp/v6/views/landing.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" selection-start-column="28" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YelpCamp/v6/views/partials/header.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -129,6 +89,7 @@
     <handled-path value="$PROJECT_DIR$/YelpCamp/v4/node_modules" />
     <handled-path value="$PROJECT_DIR$/YelpCamp/v5/node_modules" />
     <handled-path value="$PROJECT_DIR$/YelpCamp/v6/node_modules" />
+    <handled-path value="$PROJECT_DIR$/YelpCamp/v7/node_modules" />
     <handled-path value="$PROJECT_DIR$/myapp/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
@@ -251,6 +212,7 @@
       <path value="$PROJECT_DIR$/YelpCamp/v4/package.json" />
       <path value="$PROJECT_DIR$/YelpCamp/v5/package.json" />
       <path value="$PROJECT_DIR$/YelpCamp/v6/package.json" />
+      <path value="$PROJECT_DIR$/YelpCamp/v7/package.json" />
       <path value="$PROJECT_DIR$/myapp/package.json" />
     </packageJsonPaths>
   </component>
@@ -288,46 +250,7 @@
               <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Demo" type="462c0819:PsiDirectoryNode" />
               <item name="YelpCamp" type="462c0819:PsiDirectoryNode" />
-              <item name="v6" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="YelpCamp" type="462c0819:PsiDirectoryNode" />
-              <item name="v6" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="YelpCamp" type="462c0819:PsiDirectoryNode" />
-              <item name="v6" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="YelpCamp" type="462c0819:PsiDirectoryNode" />
-              <item name="v6" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="campgrounds" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="YelpCamp" type="462c0819:PsiDirectoryNode" />
-              <item name="v6" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="comments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="YelpCamp" type="462c0819:PsiDirectoryNode" />
-              <item name="v6" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
+              <item name="v7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -377,17 +300,17 @@
       <workItem from="1531728723258" duration="50070000" />
       <workItem from="1531913872744" duration="36739000" />
       <workItem from="1532050869093" duration="28341000" />
-      <workItem from="1532146564920" duration="10421000" />
+      <workItem from="1532146564920" duration="10943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144800000" />
+    <option name="totallyTimeSpent" value="145322000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30347735" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18018967" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.22708113" side_tool="true" weight="0.23939064" />
@@ -395,7 +318,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.7729189" visible="true" weight="0.5593036" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7729189" visible="true" weight="0.2600653" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -442,20 +365,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/YelpCamp/v2/views/show.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/YelpCamp/v2/views/new.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="13" column="79" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RESTfulRouting/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-66" />
@@ -785,13 +694,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/YelpCamp/v7/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YelpCamp/v7/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/YelpCamp/v6/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding>
-            <element signature="e#432#651#0" />
-          </folding>
+        <state relative-caret-position="-121">
+          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
         </state>
       </provider>
     </entry>
