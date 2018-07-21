@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bootstrap Navbars</title>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+</head>
+<!-- navbar-default
+		container			
+
+			navbar-header(a  navbar-brand)
+				(hamberger botton: class = "navbar-toggle collapsed"; data-target = #bs-nav-demo)
+
+			(collapse navbar-collapse,id = bs-nav-demo)
+				navbar-nav(a)
+				navbar-right(a)
+			(collapse navbar-collapse)
+
+		container
+	navbar-default -->
+<body> 
+	<nav class="navbar navbar-default">
+		<div class = container>
+			<div class = "navbar-header">
+				    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="	#bs-example-navbar-collapse-1" aria-expanded="false">
+				        <span class="sr-only">Toggle navigation</span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				     </button>
+				<a href="#" class = "navbar-brand">Koffee</a>
+			</div>
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class = "nav navbar-nav ">
+					<li><a href="#">About</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+				<ul class = "nav navbar-nav navbar-right">
+					<li><a href="#">Sign up</a></li>
+					<li><a href="#">Login</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+<!-- 	<script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> -->
+</body>
+</html>
